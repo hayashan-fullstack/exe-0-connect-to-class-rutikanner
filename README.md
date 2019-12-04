@@ -2,6 +2,6 @@
 
 ## update your name and id
 
-name:
+name:Ruti Kanner
 
 id:
